@@ -1,0 +1,4 @@
+google-cloud
+tensorflow
+pandas
+matplotlib
